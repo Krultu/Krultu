@@ -1,9 +1,3 @@
-<div align="center">
-  
-![image](https://avatars.githubusercontent.com/u/76265885?v=4)
-  
-</div>
-
 # About Me:
 🔧 Python, Java, C++.<br>💼 1 year of experience in IT  - Grupo RADAR.<br>
 
