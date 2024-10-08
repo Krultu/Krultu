@@ -1,5 +1,5 @@
 # About Me:
-🔧 Python, Java, C++.<br>💼 1 year of experience in IT  - Grupo RADAR.<br>
+🔧 Python, Java, C++.<br>💼 2 year of experience in IT  - Grupo RADAR.<br>
 
 
 ## 🌐 Socials:
